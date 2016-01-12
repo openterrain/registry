@@ -1,0 +1,11 @@
+{
+  "name": "CGIAR-CSI-processed SRTM 30m",
+  "contact": "openterrain@stamen.com",
+  "license": "TBD",
+  "locations": [
+    {
+      "type": "s3",
+      "bucket_name": "cgiar-csi-srtm.openterrain.org"
+    }
+  ]
+}

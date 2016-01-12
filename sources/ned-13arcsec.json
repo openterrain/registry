@@ -1,0 +1,11 @@
+{
+  "name": "NED ⅓arc second DEMs",
+  "contact": "openterrain@stamen.com",
+  "license": "TBD",
+  "locations": [
+    {
+      "type": "s3",
+      "bucket_name": "ned-13arcsec.openterrain.org"
+    }
+  ]
+}
